@@ -9,7 +9,8 @@
 <h1 align="center">Hello 👋, I'm Mr.Fan</h1>
 <h3 align="center">A Robotics Engineering Student at shenyang city University</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding">
 
 - 📫 How to reach me: **[mail](mailto:1738874436@qq.com)**
 
@@ -39,7 +40,9 @@
 
 ## 📊 GitHub Stats:
 <div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Fan007&show_icons=true&theme=flag-india&count_private=true&locale=en" alt="Code-Fan007's github stats" /></a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Fan007&theme=flag-india&hide=javaScript,crip,html,css&locale=en" /></a> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Fan007&show_icons=true&theme=flag-india&count_private=true&locale=en" alt="Code-Fan007's github stats" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Fan007&theme=flag-india&hide=javaScript,crip,html,css&locale=en" /></a> 
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Fan007&&theme=flag-india" alt="Code-Fan007" /></p>
  
