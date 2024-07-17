@@ -16,10 +16,8 @@
 ## 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Fan007&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Fan007&theme=gruvbox&hide=javascrip,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Fan007&repo=workspace&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <div align="left">
-<a href="https://github.com/Code-Fan007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Fan007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Code-Fan007's github stats" /></a> | <a href="https://github.com/Code-Fan007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Fan007&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Fan007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Code-Fan007's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Fan007&layout=compact&theme=buefy&hide_border=true" /></a> 
 </div> -->
