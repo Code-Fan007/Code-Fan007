@@ -28,11 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/EthanHardl69824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr.Fan" height="30" width="40" /></a>
-<p align="left">
-  <!-- WeChat -->
-  <a href="https://weixin.qq.com/" target="blank">
-    <img align="center" src="![alt text](image.png)" alt="YourWeChatName" height="30" width="40" />
-  </a>
 <!-- <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a> -->
@@ -48,4 +43,4 @@
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Fan007&theme=2077" style="height: 300px"  />   </div> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Fan007&theme=flag-india&locale=en" style="height: 300px"  />   </div> 
