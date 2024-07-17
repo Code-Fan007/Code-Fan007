@@ -1,4 +1,5 @@
-[![MasterHead](image/my_back.jpg)]
+<!-- ![MasterHead](image/my_back.jpg) -->
+<img  src="image/my_back.jpg" width="100%" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-fan007&label=Profile%20views&color=0e75b6&style=flat" alt="code-fan007" /> </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-fan007" alt="code-fan007" /></a> </p> -->
 
@@ -26,6 +27,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/EthanHardl69824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mr.Fan" height="30" width="40" /></a>
+<p align="left">
+  <!-- WeChat -->
+  <a href="https://weixin.qq.com/" target="blank">
+    <img align="center" src="![alt text](image.png)" alt="YourWeChatName" height="30" width="40" />
+  </a>
 <!-- <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a> -->
@@ -36,12 +42,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Fan007&show_icons=true&theme=flag-india&count_private=true&locale=en" alt="Code-Fan007's github stats" /></a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Fan007&theme=flag-india&hide=javaScript,crip,html,css&locale=en" /></a> 
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Fan007&&theme=flag-india" alt="Code-Fan007" /></p>
-
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Fan007&theme=flag-india" style="height: 300px"  />                                 </div>                                                                                       
-  <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=Code-Fan007&theme=flag-india&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
-
-<!---  
-<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
---->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Fan007&theme=2077" style="height: 300px"  />   </div> 
