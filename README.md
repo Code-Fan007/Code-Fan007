@@ -35,10 +35,15 @@
 </p>
 
 ## 📊 GitHub Stats:
-<div align="left">
+<!-- <div align="left">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Fan007&show_icons=true&theme=flag-india&count_private=true&locale=en" alt="Code-Fan007's github stats" /></a> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Fan007&theme=flag-india&hide=javaScript,crip,html,css&locale=en" /></a> 
+</div> -->
+<div style="text-align: left;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Image description" style="display: block; margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Fan007&show_icons=true&theme=flag-india&count_private=true&locale=en" alt="Code-Fan007's github stats" style="display: block; margin: 0 auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Fan007&theme=flag-india&hide=javaScript,crip,html,css&locale=en" alt="Top languages used by Code-Fan007" style="display: block; margin: 0 auto;">
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Fan007&&theme=flag-india" alt="Code-Fan007" /></p>
  
